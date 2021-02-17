@@ -1,5 +1,11 @@
 szöveg
 
+<<<<<<<
 1 lent
 2 lent
 3 lent
+=======
+1 fent
+2 fent 
+3 fent
+>>>>>>>
